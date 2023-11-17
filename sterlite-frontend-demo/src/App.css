@@ -1,0 +1,43 @@
+.App {
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    z-index:1;
+  }
+  iframe
+  {
+      display: none;
+  }
+  @media screen and (max-width: 768px) {
+    /* Decrease text size for smaller screens */
+    body {
+      font-size: 10px;
+    }
+  
+    h1 {
+      font-size: 12px;
+    }
+  
+    p {
+      font-size: 12px;
+    }
+  
+   
+  }
+  @media screen and (max-width: 1024px) {
+    
+    body {
+      font-size: 14px;
+    }
+  
+    h1 {
+      font-size: 24px;
+    }
+  
+    p {
+      font-size: 16px;
+    }
+  
+    
+  }
+  

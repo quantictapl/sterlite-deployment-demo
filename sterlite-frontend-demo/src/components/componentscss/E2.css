@@ -1,0 +1,39 @@
+.page-2-container{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    box-sizing:border-box;
+    width:100vw;
+    height:100vh;
+}
+.page-2-in{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+    width:max-content;
+}
+.dropdown-container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}.dropdown{
+    width:80%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.quote-container{
+    width:80%;
+}
+.quote-button-container{
+    display: flex;
+    align-items: center;  
+}
+.quote-btn{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+

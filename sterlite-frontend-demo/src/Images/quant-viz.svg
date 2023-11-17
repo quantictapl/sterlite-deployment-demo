@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.55 9.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e5087;
+        font-family: MORSA, MORSA;
+        font-size: 7.41px;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(.86 7.42)"><tspan class="cls-2" x="0" y="0">Q</tspan><tspan class="cls-3" x="7.46" y="0">UANT-VIZ</tspan></text>
+</svg>
